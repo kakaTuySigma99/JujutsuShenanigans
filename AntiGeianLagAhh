@@ -1,1 +1,21 @@
-# JujutsuShenanigans
+game.ReplicatedStorage.Utils.Heian.Lightning:destroy()
+
+
+
+
+
+
+
+
+wait(1) do
+game.ReplicatedStorage.Utils.Heian.Slashes:destroy()
+end
+wait(1) do
+game.ReplicatedStorage.Utils.Heian.FlameArrow.explode:destroy()
+end
+wait(1) do
+game.ReplicatedStorage.Utils.Heian.Shrine:destroy()
+end
+wait(1) do
+game.Workspace.Map.Data:destroy()
+end
